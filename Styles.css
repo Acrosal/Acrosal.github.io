@@ -65,3 +65,9 @@ hr {
 a {
     color: white;
 }
+.PC, .LP {
+    width: 350px;
+}
+.LD {
+    font-size: 30px;
+}
