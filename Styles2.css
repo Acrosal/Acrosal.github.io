@@ -1,0 +1,43 @@
+body {
+    background-image:url(R.jpg);
+    
+}
+header {
+            background-color:rgb(7, 17, 211);
+            scale: 1.01;
+            text-align: center;
+}
+.Links {
+    background-color: azure;
+    text-align: center;
+
+
+}
+.Acrosal {
+    font-size:xxx-large;
+    
+}
+
+
+
+.Me {
+
+            width: 500px;
+            border-radius: 50%;
+            float: left;
+            margin-right: 10px;
+            
+}
+.About {
+    background-color: rgba(2, 3, 46, 0.512);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+.Abouttext {
+
+    font-size: large;
+    
+
+}
