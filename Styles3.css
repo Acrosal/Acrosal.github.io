@@ -31,6 +31,25 @@ footer {
     margin-right: auto;
     padding-top:5px ;
     }
-a {
+
+    .Wide {
+    
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    a {
         color: white;
+}
+.Best h2 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.Best p {
+text-align: center;
+    color: white;
+    font-size: 20px;
+
 }

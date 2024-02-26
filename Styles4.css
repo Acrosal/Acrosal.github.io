@@ -3,12 +3,12 @@ html {
 }
 body {
     margin: 0;
-  }
+}
 body {
     background-image:url(R.jpg);
     background-size: auto;
 
-        }
+}
 header {
     background-color:rgb(2, 3, 39);
     border-color: rgb(2, 3, 39);
@@ -17,20 +17,38 @@ header {
     padding: 10px;
     text-align: center;
     
-        }
+}
 
 footer {
     background-color:rgb(0, 0, 0);
     scale: 1.00;
     text-align: center;
-      }
-      .Desktops {
+}
+.Desktops {
         background-color: rgba(2, 3, 46, 0.95);
         width: 80%;
         margin-left: auto;
         margin-right: auto;
         padding-top:5px ;
-    }
+}
+.Wide {
+    
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+}
+
 a {
         color: white;
     }
+.Best h2 {
+        text-align: center;
+        color: white;
+        font-size: 40px;
+}
+.Best p {
+    text-align: center;
+        color: white;
+        font-size: 20px;
+    
+}
