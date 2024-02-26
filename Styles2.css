@@ -1,15 +1,33 @@
+html {
+    height: 100%;
+}
+body {
+    margin: 0;
+  }
 body {
     background-image:url(R.jpg);
-    
-}
+    background-size: auto;
+
+        }
 header {
-            background-color:rgb(7, 17, 211);
-            scale: 1.01;
-            text-align: center;
-}
+    background-color:rgb(2, 3, 39);
+    border-color: rgb(2, 3, 39);
+    font-size: xx-large;
+    scale: 1.000;
+    padding: 10px;
+    text-align: center;
+    
+        }
+
+footer {
+    background-color:rgb(0, 0, 0);
+    scale: 1.00;
+    text-align: center;
+      }
 .Links {
     background-color: azure;
     text-align: center;
+    margin: 0;
 
 
 }
@@ -29,7 +47,7 @@ header {
             
 }
 .About {
-    background-color: rgba(2, 3, 46, 0.712);
+    background-color: rgba(2, 3, 46, 0.95);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -40,4 +58,7 @@ header {
     font-size: large;
     
 
+}
+a {
+    color: white;
 }
