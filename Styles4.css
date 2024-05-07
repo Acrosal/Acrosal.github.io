@@ -25,12 +25,13 @@ h1  {
     background-color: black;
     text-align: center;
 }
-.LinksP {
+.Links p {
     display: inline-block;
     padding-left: 30px;
     padding-right: 30px;
     scale: 100%;
     text-decoration-line: underline;
+    color: white;
 }
 .Heading1 {
     font-size: xxx-large;
