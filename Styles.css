@@ -60,3 +60,14 @@ h1  {
     text-decoration-line: underline;
     color: white;
 }
+footer {
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+    margin-top: -20px;
+padding: 1px;
+}
+.linkedin {
+    color: black;
+    margin-top: -22px;
+}

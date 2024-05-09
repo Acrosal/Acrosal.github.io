@@ -37,3 +37,11 @@ h1  {
     font-size: xxx-large;
     font-style: oblique;
 }
+.AboutMain{
+    text-align: center;
+    background-color: rgba(18, 130, 221, 0.562);
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:5px ;
+}
