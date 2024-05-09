@@ -51,3 +51,10 @@ h1  {
     margin: auto;
     width: 60%;
 }
+footer {
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+    margin-top: -20px;
+padding: 1px;
+}
